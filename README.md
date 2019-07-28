@@ -1,0 +1,2 @@
+# Drug_Review
+In this project, a grading mechine is created. This machine will predict the review score from the patients' reviews. There are four levels of scores, namely, bad (0), moderate (1), good (2), excellent (3). The machine consists of 5 layers. The first layer is an embedding layer. The second and third layers are LSTM layer. The forth layer is fully connected layer. The last layer is an output layer with 4 nodes.
